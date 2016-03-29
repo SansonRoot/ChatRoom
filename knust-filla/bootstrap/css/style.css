@@ -1,0 +1,16 @@
+#message{
+  background: hsl(103, 45%, 89%);
+  border-color: #5bbd61;
+  border-radius: 5px;
+  color: #000000;
+  font-family:sans-serif;
+
+}
+.noscroll{
+  overflow-x: hidden;
+}
+.scrolling{
+  overflow-y: scroll;
+  overflow-x: hidden;
+  height: 400px;
+}

@@ -1,0 +1,12 @@
+{
+  "autoload" : {
+    "classmap" : [
+      "bin/Chat.php",
+      "bin/ChatConn.php"
+    ]
+  },
+  "require" :{
+    "cboden/ratchet" : "~0.3"
+  }
+
+}
